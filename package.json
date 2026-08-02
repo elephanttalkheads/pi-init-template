@@ -1,0 +1,14 @@
+{
+  "name": "pi-init-template",
+  "version": "0.1.0",
+  "description": "opencode /init 移植：生成或更新 AGENTS.md 的 pi prompt template",
+  "keywords": [
+    "pi-package"
+  ],
+  "license": "MIT",
+  "pi": {
+    "prompts": [
+      "./prompts"
+    ]
+  }
+}
