@@ -7,6 +7,9 @@
 ## 安装
 
 ```bash
+# npm（推荐）
+pi install npm:pi-init-template
+
 # git 方式（GitHub）
 pi install git:github.com/elephanttalkheads/pi-init-template
 
